@@ -1,0 +1,1 @@
+In Day 1, I have cover the HTML part 
